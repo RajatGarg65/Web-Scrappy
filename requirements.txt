@@ -1,0 +1,9 @@
+selenium
+groq
+pandas
+tqdm
+openpyxl
+Scrapy
+python-dotenv
+tenacity
+
