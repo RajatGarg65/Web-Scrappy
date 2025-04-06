@@ -1,3 +1,4 @@
 majorpr-synopsis-final.pdf
 venv/
 __pycache__/
+.venv/
