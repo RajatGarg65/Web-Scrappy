@@ -2,3 +2,6 @@ majorpr-synopsis-final.pdf
 venv/
 __pycache__/
 .venv/
+output/
+website_processing.log
+.env

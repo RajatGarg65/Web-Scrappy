@@ -42,7 +42,8 @@ SCRAPPING/
 1. **Virtual Environment**: Create and activate a virtual environment to manage dependencies.
    ```sh
    python -m venv .venv
-   source .venv/bin/activate   # On Windows use `.venv\Scripts\activate`
+    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser --->  Optional
+   source .venv/bin/activate    or     .\venv\Scripts\Activate.ps1   # On Windows use `.venv\Scripts\activate`
 
 2. **Install Dependencies**: Install the required Python packages.
     ```
